@@ -2,6 +2,7 @@
     .modal-content{
         border-radius: 20px;
         background: #fff;
+        margin-top: 50px;
     }
     &-header{
         .modal-title{
@@ -156,6 +157,7 @@
     position: absolute;
     bottom: 0;
     left: 100px;
+
     .btn:nth-child(1){
         font-weight: 500;
         font-size: 16px;
